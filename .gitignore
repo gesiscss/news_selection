@@ -1,4 +1,9 @@
+# temporarily avoid uploading any  code
 data/
+*.ipynb
+*.R
+
+# customize
 *.sh
 
 # Byte-compiled / optimized / DLL files
