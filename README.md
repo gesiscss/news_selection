@@ -1,1 +1,1 @@
-# NewsSelection
+# Google News Selection
