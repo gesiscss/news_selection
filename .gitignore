@@ -1,4 +1,5 @@
 # temporarily avoid uploading any  code
+data
 data/
 *.ipynb
 *.R
