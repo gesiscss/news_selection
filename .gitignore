@@ -1,7 +1,7 @@
 # temporarily avoid uploading any  code
 data
 data/
-*.ipynb
+#*.ipynb
 *.R
 
 # customize
